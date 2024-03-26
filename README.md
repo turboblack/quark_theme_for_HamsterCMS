@@ -1,4 +1,5 @@
-# quark_theme_for_HamsterCMS
+# quark theme for HamsterCMS 
+https://github.com/turboblack/HamsterCMS
 Quark theme for HamsterCMS adapted for DOS LINKS browser
 
 To use a template, create an **quark** folder in the **templates** folder, only index.html file there, open the admin panel on the hosting, select the page, and specify this template in the options.
